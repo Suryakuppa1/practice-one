@@ -1,4 +1,4 @@
-package org.example.StringsProblems;
+package org.StringsProblems;
 
 import java.util.LinkedHashSet;
 import java.util.Set;
